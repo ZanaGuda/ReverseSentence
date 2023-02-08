@@ -1,3 +1,6 @@
+Simple project using React to reverse sentences which contain odd number of words.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
